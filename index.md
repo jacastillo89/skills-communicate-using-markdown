@@ -7,3 +7,8 @@ private void Start()
     screenCapture = Texture2D(Screen.width, Screen.height, TextureFormat.RGB24, flase);
 }
 ```
+- [x] Create the world in Unity
+- [ ] Add the VR mechanics in the world in Unity
+- [ ] Add the VR Camera mechanics in the world of Unity
+- [ ] Add the Intro Screen
+- [ ] Create the points system
